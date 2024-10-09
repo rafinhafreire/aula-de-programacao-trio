@@ -48,7 +48,7 @@ Definir Colunas: Na aba “Columns”, você pode adicionar colunas:
 Clique em “Add” para adicionar uma nova coluna.
 Defina o Nome, Tipo (ex.: INT, VARCHAR, etc.), e outras propriedades (como se pode ser nulo ou não).
 Marque uma coluna como “Primary Key” se for a chave primária.
-![setima etapa.](hhttps://github.com/rafinhafreire/aula-de-programacao-trio/blob/main/etapa7.png)
+![setima etapa.](https://github.com/rafinhafreire/aula-de-programacao-trio/blob/main/etapa7.png)
 > Se você tiver chaves estrangeiras, vá até a aba “Foreign Keys” e adicione os relacionamentos necessários com outras tabelas.
 
 ![oitava etapa.](https://github.com/rafinhafreire/aula-de-programacao-trio/blob/main/etapa8.png)
