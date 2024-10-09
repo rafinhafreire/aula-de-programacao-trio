@@ -27,8 +27,9 @@ Você pode clicar nele para ver opções como criar tabelas, visualizar dados, e
 ## Como criar uma tabela
 
 _Observações:
-Essas são as estruturas de uma Tabela
-Nome da Tabela: Identifica a tabela no banco de dados.
+Essas são as estruturas de uma Tabela_
+
+_Nome da Tabela: Identifica a tabela no banco de dados.
 Colunas: Cada coluna tem um nome e um tipo de dado (ex.: INT, VARCHAR, DATE).
 Chaves:
 Chave Primária: Identifica de forma única cada linha na tabela.
